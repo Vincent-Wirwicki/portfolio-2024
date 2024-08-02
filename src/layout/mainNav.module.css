@@ -1,0 +1,19 @@
+.nav {
+    position: fixed;
+    z-index: 90;
+    top: 0.75rem;
+    left: 50%;
+    translate: -50% 0;
+    width: fit-content;
+    /* border-radius: 0.5rem; */
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_link {
+    padding: 0.25rem .75rem;
+    font-family: var(--font-outfit);
+    /* width: min(3rem, 5rem); */
+}
