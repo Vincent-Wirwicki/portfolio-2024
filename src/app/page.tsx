@@ -58,7 +58,7 @@ export default function Home() {
           <span className="contact-title">Contact </span>
           <div className=" contact-text">
             <a
-              href="https://raymarching-r3f.netlify.app/"
+              href="https://www.linkedin.com/in/vincent-wirwicki-3819539b/"
               target="_blank"
               rel="noopener noreferrer"
             >
